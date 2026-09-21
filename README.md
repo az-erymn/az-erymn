@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there
+I'm Ahmed Zafer Erayman. I was admitted to Bilkent University in 2025, and after completing the English Preparation Programme, I am a freshman student in the Computer Science department now.
 
 <!--
 **az-erymn/az-erymn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
